@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "teams": "🇪🇸 Spain vs 🇵🇹 Portugal (R16)",
+    "homeTeam": "🇪🇸 Spain",
+    "awayTeam": "🇵🇹 Portugal",
+    "odds": {
+      "win": 2.01,
+      "draw": 3.201,
+      "loss": 3.263
+    },
+    "stats": {
+      "1": 28,
+      "2": 16,
+      "3": 0,
+      "4": 0,
+      "5": 17,
+      "6": 11,
+      "7": 49,
+      "8": 51
+    }
+  },
+  {
+    "id": 2,
+    "teams": "🇺🇸 USA vs 🇧🇪 Belgium (R16)",
+    "homeTeam": "🇺🇸 USA",
+    "awayTeam": "🇧🇪 Belgium",
+    "odds": {
+      "win": 3.131,
+      "draw": 3.029,
+      "loss": 2.047
+    },
+    "stats": {
+      "1": 24,
+      "2": 23,
+      "3": 0,
+      "4": 0,
+      "5": 17,
+      "6": 10,
+      "7": 46,
+      "8": 52
+    }
+  },
+  {
+    "id": 3,
+    "teams": "🇫🇷 France vs 🇲🇦 Morocco (QF)",
+    "homeTeam": "🇫🇷 France",
+    "awayTeam": "🇲🇦 Morocco",
+    "odds": {
+      "win": 1.236,
+      "draw": 2.684,
+      "loss": 6.56
+    },
+    "stats": {
+      "1": 23,
+      "2": 24,
+      "3": 0,
+      "4": 0,
+      "5": 16,
+      "6": 13,
+      "7": 42,
+      "8": 47
+    }
+  },
+  {
+    "id": 4,
+    "teams": "🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (QF)",
+    "homeTeam": "🇳🇴 Norway",
+    "awayTeam": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+    "odds": {
+      "win": 2.948,
+      "draw": 3.226,
+      "loss": 2.203
+    },
+    "stats": {
+      "1": 23,
+      "2": 17,
+      "3": 0,
+      "4": 0,
+      "5": 10,
+      "6": 16,
+      "7": 39,
+      "8": 38
+    }
+  },
+  {
+    "id": 5,
+    "teams": "🇪🇸 Spain vs 🇧🇪 Belgium (QF)",
+    "homeTeam": "🇪🇸 Spain",
+    "awayTeam": "🇧🇪 Belgium",
+    "odds": {
+      "win": 1.903,
+      "draw": 3.702,
+      "loss": 3.808
+    },
+    "stats": {
+      "1": 27,
+      "2": 19,
+      "3": 0,
+      "4": 0,
+      "5": 18,
+      "6": 20,
+      "7": 52,
+      "8": 46
+    }
+  },
+  {
+    "id": 6,
+    "teams": "🇦🇷 Argentina vs 🇨🇭 Switzerland (QF)",
+    "homeTeam": "🇦🇷 Argentina",
+    "awayTeam": "🇨🇭 Switzerland",
+    "odds": {
+      "win": 2.08,
+      "draw": 3.224,
+      "loss": 2.974
+    },
+    "stats": {
+      "1": 20,
+      "2": 23,
+      "3": 0,
+      "4": 0,
+      "5": 14,
+      "6": 19,
+      "7": 51,
+      "8": 48
+    }
+  }
+]

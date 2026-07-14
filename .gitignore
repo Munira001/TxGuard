@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+
+# Local env config files (contains secret API credentials)
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# Solana private key pairs (never commit private keys!)
+.wallets/
+
+# Local runtime logs and output CSV databases
+# (wallets-info.json and fixtures.json are safe to commit — public keys only)
+public/alerts.csv
+public/arena.csv
+public/market-maker.csv
+alerts-demo.csv
+*.log
+
+# Editor and OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
