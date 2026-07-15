@@ -6,7 +6,7 @@
 
 > Real-time consensus World Cup odds scanner powered by **TxLINE** and the **Solana Blockchain**. Three autonomous agents monitor, compete, and trade on live odds movements — fully automated, zero human intervention.
 
-**🔗 Live Application Link**: [TxGuard on Vercel](https://txguard.vercel.app) *(Replace with your actual Vercel deployment URL)*
+**🔗 Live Application Link**: [TxGuard on Vercel](https://tx-guard.vercel.app/)
 
 
 
