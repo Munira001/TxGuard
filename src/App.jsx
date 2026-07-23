@@ -17,6 +17,7 @@ import {
   X,
   ShieldAlert
 } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 
 import FanZone from './FanZone';
 
@@ -2099,6 +2100,7 @@ export default function App() {
           </div>
         </div>
       )}
+      <Analytics />
     </div>
   );
 }
